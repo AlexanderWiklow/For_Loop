@@ -1,0 +1,7 @@
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\For-Loop\For-Loop\bin\Debug\For-Loop.exe.config
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\For-Loop\For-Loop\bin\Debug\For-Loop.exe
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\For-Loop\For-Loop\bin\Debug\For-Loop.pdb
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\For-Loop\For-Loop\obj\Debug\For-Loop.csprojAssemblyReference.cache
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\For-Loop\For-Loop\obj\Debug\For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\For-Loop\For-Loop\obj\Debug\For-Loop.exe
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\For-Loop\For-Loop\obj\Debug\For-Loop.pdb
